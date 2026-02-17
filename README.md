@@ -64,7 +64,7 @@ Please read [CODE_OF_CONDUCT.md](https://github.com/NAU-OSS/AutoWordle/blob/main
 
 * **Aiden Seay** - *Initial work* - [aidengseay](https://github.com/aidengseay)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/NAU-OSS/AutoWordle/network/dependencies) who participated in this project.
 
 ## License
 
