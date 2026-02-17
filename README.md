@@ -68,4 +68,4 @@ See also the list of [contributors](https://github.com/NAU-OSS/AutoWordle/networ
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/NAU-OSS/AutoWordle/blob/main/license.md) file for details
